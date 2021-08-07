@@ -1,0 +1,4 @@
+Architecture	Corbusier	Architecture	true 
+Buildings	Doshi	Architecture	true 
+Cathedrals	Weiwei	Architecture	true 
+ModernArch	Niemeyer	Architecture	true 

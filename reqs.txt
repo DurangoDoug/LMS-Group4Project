@@ -1,0 +1,51 @@
+For library management, this project considers six departments – Computer, Electrical, Civil, Electronics, Mechanical, and Architecture. These departments work simultaneously with the operations mentioned above. 
+
+Create books in 6 sections of departments and build a shelf of 3 to 5 books. You may use arrays or vectors.
+Create a class hierarchy. Dept has many books. 
+Department of books would come from a file.  Computer.txt, Electrical.txt, etc. 
+Establish basic fields members needed for a book
+Create a module to have user selects a department based in a menu and can search for a book in that department to check out
+Allow the User to check out the books selected in the cart.
+You can add a book to the Civil section, delete a book from the Electrical section or view issued book details of the Mechanical department.
+Print final checkout receipt as output to screen
+Requirements:
+
+-----------------------------------------------------------------------------------------------------------
+
+	PROJECT REQUIREMENTS:
+
+Must use arrays 							- Done - Array of Sections in main.CPP
+vectors 									- Done - Sections have vectors, the User's cart is a vector 
+build classes that will support the data	- Done - User, Book, Section classes
+have a base/derived class example			- Done - Magazine : Book class = base : derived 
+display the data							- Done - View books selections in main.cpp
+a menu to select which module functionality - Done - Switch menu in main.cpp
+Work with file input and output				- Done - File I/O used to maintain the library
+Separate with headers and CPP files			- Done
+
+-----------------------------------------------------------------------------------------------------------
+
+have a virtual function						- TODO
+pointers									- TODO
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Deliverables:
+
+1.  Requirement Doc Sections 1 - 3.4 and 3.8 and 4 Use Case Diagram
+
+2.  Design Document with UML Diagrams
+
+3.  Code, Pseudocode of 2 Key functions.
+
+4.  Powerpoint Presentation of Key functionality
+
+Screenshots and Explanation,
+slide Assumptions,
+slide on Roadblocks, and
+slide what would you do with more than a week of development.
+
+5.   Testing Document  5 pts Extra Credit!!!!
+
+Computer.txt Electrical.txt Civil.txt Electronics.txt Mechanical.txt  Architecture.txt
